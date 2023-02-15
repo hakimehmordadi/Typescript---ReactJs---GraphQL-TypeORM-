@@ -42,11 +42,6 @@ REST_COUNTRIES_HOST:
 FIXER_HOST:
 FIXER_API_KEY:
 
-# Sample Username & Passwort to test
-
-test.assignment@tuta.io
-123456
-
 # Database
 
 Using of typeorm give the ability to set more databases such as
